@@ -1,1 +1,21 @@
-This project was inspired by the Block Blast game and is made for educational purposes only. It is not for commercial use.
+# Block Blast Clone
+
+This is a **clone of the Block Blast game**, created for **educational purposes only**.  
+It is written in **C** using the [raylib](https://www.raylib.com/) library.  
+
+---
+
+## 🎮 Features
+- Grid-based puzzle gameplay (like the original Block Blast)
+- Row and column clearing animations
+- Game over screen and retry option
+- Simple and lightweight (only uses `raylib.h`)
+
+---
+
+## 🛠️ Requirements
+Before compiling, make sure you have:
+- **GCC** or any C compiler
+- **raylib** installed on your system
+
+You can install raylib following [the official guide](https://github.com/raysan5/raylib#building-raylib).
